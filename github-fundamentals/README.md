@@ -6,7 +6,21 @@
 
 ## Creating a repository
 
+Here are the steps to creating a new repository on GitHub: 
 
+<placeholder1 - new button OR from main page>
+
+Be sure that you select an appropriate name for the repository, and if you plan on sharing it with the instructional team, be sure that it is public:
+
+<placeholder 2, Repo name and Public highlighted>
+
+Be sure that NONE of the following options are selected. (There’s a time and place to use these options, hold off while you’re learning the ropes!):
+
+<placeholder 3, optional show unselected, or consolidate with placeholder2>
+
+When you’ve entered these items, click on ‘Create repository.’
+
+You now have a remote repository on GitHub! 
 
 ## Cloning a repository
 
