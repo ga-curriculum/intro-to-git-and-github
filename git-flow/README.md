@@ -65,3 +65,5 @@ git push origin main
 -repeat-
 
 _For the purposes of this course you will almost always run these 3 commands together._
+
+<img src="./assets/github-flow.gif" maxWidth="100%" alt="github flow">

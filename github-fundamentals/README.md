@@ -4,6 +4,9 @@
 
 **Learning objective:** By the end of this lesson, students will be able to clone a remote repository and open it in VS Code. 
 
+## Creating a repository
+
+
 
 ## Cloning a repository
 
