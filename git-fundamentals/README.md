@@ -1,4 +1,4 @@
-# [tktk Module Name] - tktk Microlesson Name
+# Intro To Git and GitHub - Git Fundamentals
 
 ![Hero image](./assets/hero.png)
 
