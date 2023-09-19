@@ -8,7 +8,15 @@
 
 Here are the steps to creating a new repository on GitHub: 
 
-<placeholder1 - new button OR from main page>
+You can click on the repositories tab and select the **New** button: 
+
+Note that if you have not made a repository before, you will not had a repository tab. 
+
+<img src="./assets/new-repo-button.png" width="100%" alt="New Repository Button">
+
+or you can use the dropdown menu: 
+
+<img src="./assets/new-repo-dropdown.png" width="100%" alt="New Repository Dropdown">
 
 Be sure that you select an appropriate name for the repository, and if you plan on sharing it with the instructional team, be sure that it is public:
 
