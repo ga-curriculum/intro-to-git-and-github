@@ -1,4 +1,4 @@
-# [tktk Module Name] - References
+# Intro To Git and GitHub - References
 
 ![Hero image](./assets/hero.png)
 
@@ -6,8 +6,7 @@
 
 Links from lessons:
 
-- [tktk descriptive name of link]()
+- [GitHub Docs](https://docs.github.com/en)
 
-- [tktk descriptive name of link]()
+- [Git Docs](https://git-scm.com/docs)
 
-- [tktk descriptive name of link]()
