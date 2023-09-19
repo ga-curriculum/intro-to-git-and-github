@@ -6,27 +6,29 @@
 
 ## Creating a repository
 
-Here are the steps to creating a new repository on GitHub: 
+Here are the steps to creating a new repository on GitHub:
 
-You can click on the repositories tab and select the **New** button: 
-
-Note that if you have not made a repository before, you will not had a repository tab. 
-
-<img src="./assets/new-repo-button.png" width="100%" alt="New Repository Button">
-
-or you can use the dropdown menu: 
+There are two primary ways to get to the new repository page. You can use the dropdown menu from the main nav bar: 
 
 <img src="./assets/new-repo-dropdown.png" width="100%" alt="New Repository Dropdown">
 
+You can alternatively click on the repositories tab and select the **New** button: 
+
+> If you have never made a repository before, you will not have a repository tab yet! 
+
+<img src="./assets/new-repo-button.png" width="100%" alt="New Repository Button">
+
 Be sure that you select an appropriate name for the repository, and if you plan on sharing it with the instructional team, be sure that it is public:
 
-<placeholder 2, Repo name and Public highlighted>
+<img src="./assets/new-repo-1.png" width="100%" alt="New Repository Dropdown">
 
 Be sure that NONE of the following options are selected. (There’s a time and place to use these options, hold off while you’re learning the ropes!):
 
-<placeholder 3, optional show unselected, or consolidate with placeholder2>
+<img src="./assets/new-repo-2.png" width="100%" alt="New Repository Dropdown">
 
-When you’ve entered these items, click on ‘Create repository.’
+When you’ve entered these items, click on ‘**Create repository**.’
+
+<img src="./assets/new-repo-3.png" width="100%" alt="New Repository Dropdown">
 
 You now have a remote repository on GitHub! 
 
