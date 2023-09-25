@@ -1,29 +1,26 @@
-# [tktk Module Name]
+# Intro To Git and GitHub
 
 ![Hero image](./assets/tktkhero-main.png)
 
 ## Module overview
 
-tktk What is the takeaway of this module?
+This module introduces Git and GitHub.
 
 ## Content outline
 
 | Lesson | Video Time | Video | Learning Objective |
 | ------ |:----------:|:-----:| ------------------ |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | tktk min | [tktk Link]() | tktk LO |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | tktk min | [tktk Link]() | tktk LO |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | tktk min | [tktk Link]() | tktk LO |
+| [Git Concepts](./git-concepts/README.md) | tktk min | [tktk Link]() | tktk LO |
+| [GitHub Concepts](./github-concepts/README.md) | tktk min | [tktk Link]() | tktk LO |
+| [GitHub Fundamentals](./github-fundamentals/README.md) | tktk min | [tktk Link]() | tktk LO |
+| [Git Fundamentals](./git-fundamentals/README.md) | tktk min | [tktk Link]() | tktk LO |
+| [Git Flow](./git-flow/README.md) | tktk min | [tktk Link]() | tktk LO |
 |  **Total Module**                                        | tktk min | --            | ---     |
 
 ## Additional content 
 
 📖 [Reference Materials](./references/README.md)
 
-### 🚀 Level Up
-
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md)
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md)
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md)
 
 ## Internal resources
 
