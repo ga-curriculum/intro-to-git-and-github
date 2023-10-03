@@ -2,27 +2,21 @@
 
 ![Hero image](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to define the significance of GitHub
+**Learning objective:** By the end of this lesson, students will be able to define the significance of GitHub.
 
 ## What is GitHub?
 
-GitHub is a social network built around Git. It has completely changed the way we, as programmers, share and work on code. GitHub is the most prominent online storage space of collaborative work, and it utilizes Git to keep track of versions, issues, and requests for changes.
+GitHub is a platform for code collaboration built around Git with additional social features layered in. It is the most prominent online storage space for collaborative work. 
+
+GitHub fosters community collaboration by providing tools like [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) for discussing ideas and problems. GitHub even adds some quality-of-life tools on top of Git, like [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) for suggesting and reviewing code changes. In short, it is a social network for developers like us!
 
 ## Why use GitHub?
 
-GitHub plays the critical role of a cloud-based backup system - a safe place for all your work! Your code, and the time you spent writing it, are valuable - you don't want to risk losing it to hardware failure, etc. So, we connect our local Git repo to a remote repo on GitHub that we can then push code to and pull code from on-demand.
+GitHub plays the critical role of a cloud-based backup system - a safe place for all your work! Your code and the time you spent writing it are valuable. You don't want to risk losing it to hardware failure, etc. Using GitHub means we can push code to it on demand. And if something goes wrong, we can retrieve it easily.
 
-GitHub is a crucial part of what is known as "open source" coding, where developers from all over are able to work together to build something. It is something that you will be using extensively in your Software Engineering journey, long after this class ends.
+GitHub is a crucial part of open-source coding, where developers from all over can work together to build something great. You will use it extensively in your software engineering journey long after this course ends.
 
 ## How are Git and GitHub different? 
 
 Git provides us with local repositories on our computers 💻
 GitHub provides us with remote repositories stored in the cloud ☁️
-
-## Your GitHub accounts: 
-
-During your time here at GA, you will be making use of two GitHub accounts. One will be your ENTERPRISE GitHub account, which will contain all of your resources and work for this cohort. The second will be your PERSONAL GitHub account, for your assigned and future projects that you will be showcasing.
-
-If you have not signed up for your GA Enterprise GitHub account yet, here's the link to do so: [Sign Up](https://git-invite.generalassemb.ly)
-
-If you have not signed up for your Personal GitHub account yet, you may do so [HERE](https://github.com/) on GitHub's website.
