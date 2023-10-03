@@ -8,8 +8,8 @@ This module introduces Git and GitHub.
 
 ## Content outline
 
-| Lesson | Video Time | Video | Learning Objective |
-| ------ |:----------:|:-----:| ------------------ |
+| Lesson | Video Time | Video | Topics Covered |
+| ------ |:----------:|:-----:| -------------- |
 | [Git Concepts](./git-concepts/README.md)               | --- | --- | Define the significance of version control and the role Git plays in our work as developers. |
 | [GitHub Concepts](./github-concepts/README.md)         | --- | --- | Understand the role GitHub plays in our work and how it is different from Git.               |
 | [GitHub Fundamentals](./github-fundamentals/README.md) | --- | --- | Clone a remote repository and open it in VS Code.                                            |
