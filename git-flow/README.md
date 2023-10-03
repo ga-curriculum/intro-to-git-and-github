@@ -4,66 +4,124 @@
 
 **Learning objective:** By the end of this lesson, students will be able to stage, commit, and push changes.
 
-## Stage (add)
+## Understanding the Git flow
 
-Command: `git add .`
+Adding Git to an existing workflow takes just a few commands in the terminal. Here are the steps:
 
-#### What it does: 
+1. Write code
+2. Stage work
+3. Commit staged work
+4. Push committed work
+
+Here's a graphic that sums this up:
+
+![The git flow in a diagram](./assets/github-flow.gif)
+
+tktk Hunter - this graphic is great, but can we remove git pull from it? Would also be nice to upres it too.
+
+Let's walk through how to carry out these individual steps. Along the way, we'll use a rocket's payload as an analogy. 
+
+tktk Hunter - not sure how I feel about this, but you might play with it. Maybe add a series of images for each of these steps, drawing parallels to the rocket analogy?
+
+## 1. Write code
+
+Write code just as you always would! Nothing about this step changes by adding Git to your workflow.
+
+Just like the payload on a rocket needs to be thought out and built before it can be added to the rocket's payload, you'll do the same with your code!
+
+## 2. Stage (add)
+
+After making changes to your code, use this command to stage those changes: 
+
+```bash
+git add .
+```
+
+> 🧠 The `.` in `git add .` stands for the current directory, similar to when you run `code .` to open the current directory in VS Code.
+
+### What it does
+
 This command adds all files/folders in the current directory to a staging area, where they will be added to the next commit.
 
-#### When and why we use it: 
-Use this command after making changes to your code that you want to potentially commit to the local repository. To track changes to files, you must add them to the staging area, where the changes will be committed.
+### When and why we use it
+
+Use this command after making changes to your code that you want to potentially commit to the local repository. To track file changes, you must add them to the staging area.
 
 The staging area is an intermediate area where changes to files are stored before being committed to the repository.
 
-The `.` in `git add .` will add all of the files in the directory that we are currently working with. We are also able to add one file at a time, or multiples, by simply writing the file names out when we add:
+The `.` in `git add .` will add all of the files in the directory that we are currently working with. We are also able to add one file at a time, or multiples, by writing the file names out when we add:
 
 ```bash
 git add index.html
 ```
 
+When doing collaborative coding, it will become clearer why not adding every single file at once can be beneficial. For now, `git add .` will work great!
+
+Continuing the rocket analogy, running the `git add .` command puts the payload next to the rocket to be loaded. Nothing is finalized yet; changes could still be made, but preparations are happening.
+
+## 3. Commit
+
+The command: 
+
 ```bash
-git add index.html style.css js/app.js
+git commit -m "commit message"
 ```
 
-Later on, as we cover GitHub and collaborative coding, it will become more clear why not adding every single file at once can be beneficial. For now, `git add .` will work great!
+### What it does
 
-While this does overly simplify the Git workflow and only gets us so far, while you’re learning it helps to think of your code as a rocket 🚀 - running the `git add .` command puts the entire rocket on the launch pad.
-
-## Commit
-
-The command: `git commit -m "commit message"`
-
-#### What it does: 
-This command allows you to provide a checkpoint where you can save the recent changes you've made to your code. It also allows you to enter a message describing the changes that have been made to your code for future reference.
+This command allows you to provide a checkpoint where you can save the recent changes you've made to your code. It also allows you to enter a message describing the changes made to your code for future reference.
 
 Commit messages should be in the present tense and should describe the changes that the code is making. For example, if a commit fixes a typo in your code, the commit message should be "fix typo", not "fixed typo".
 
-#### When and why we use it: 
-Use this command after adding changes to the staging area to commit those changes. Commits provide a list detailing changes that have been made to your code. This allows you (or anyone viewing your repository) to see what code changes have been made over time. It also allows you to revert to previous versions of your code if you end up breaking something and can't figure out how to fix it.
+### When and why we use it
 
-Continuing the rocket analogy 🚀 - committing your code is noting down the current state of the rocket that you've just put in the launch pad. Maybe you added another seat, maybe you managed to shave off some of the hull weight - this commit will help keep track of whatever changed since the previous iteration of the rocket.
+Use this command after adding changes to the staging area to commit those changes. Commits provide a list detailing changes that have been made to your code. This allows you (or anyone viewing your repository) to see the changes to code made over time. It also allows you to revert to previous versions of your code if you break something and can't figure out how to fix it.
 
-## Push 
+Committing your code is putting the payload onto the rocket to be launched. Whenever the rocket takes off, it will carry the committed code.
 
-The command: `git push <remote-name> <remote-branch-name>`
+## 4. Push 
 
-#### What it does: 
-This command sends all of the files/directories that have been added/changed since the last commit to a remote repository.
+The command: 
 
-#### When and why we use it: 
-Do this immediately after you `git add .` and `git commit -m "Your commit message"`. To get your code on GitHub, you push it from a local repository up to a repository in the cloud (online).
-
-> ♻️ Repeatable Pattern: when working alone, the typical workflow will be: 
-
--make changes to code-
 ```bash
-git add .
-git commit -m “message describing code changes”
+git push <remote-name> <remote-branch-name>
+```
+
+Typically when not working collaboratively, `<remote-name>` will be `origin`, and `<remote-branch-name>` will be `main`. Therefore, you will typically run:
+
+```bash
 git push origin main
 ```
--repeat-
 
-_For the purposes of this course you will almost always run these 3 commands together._
+### What it does
 
-<img src="./assets/github-flow.gif" maxWidth="100%" alt="github flow">
+This command sends all the committed changes to a remote repository.
+
+### When and why we use it
+
+Do this immediately after you `git add .` and `git commit -m "Your commit message"`. To get your code on GitHub, you push it from a local repository up to a repository hosted by GitHub.
+
+Finalizing the rocket analogy 🚀 - pushing your code is like launching the rocket and sending its payload to planet GitHub for all to see!
+
+## Why is Git flow important?
+
+When working alone, it may be difficult to see the benefits of Git at first. Here are some benefits you get immediately even if you're not collaborating with others:
+
+- This workflow encourages small incremental changes. Making smaller changes makes it easier to understand the differences between each version and lets us hone in on those individual changes.
+- Each commit should make it clear what was done and why.
+- You are creating a backup for your code by pushing it to GitHub. If local changes are corrupted or the machine fails, the code that you've written is safe on GitHub.
+- Reverting to a previous state in the code is easier. Commits create a history you can revert to at any time.
+
+There are even more benefits when you start collaborating with code.
+
+> ♻️ Repeatable Pattern: when working alone, the typical Git workflow will be: 
+>
+> ***Make changes to your code***
+> ```bash
+> git add .
+> git commit -m "message describing code changes"
+> git push origin main
+> ```
+> ***Repeat***
+>
+> You will almost always run these three commands together.
