@@ -15,7 +15,7 @@ Adding Git to an existing workflow takes just a few commands in the terminal. He
 
 Here's a graphic that sums this up:
 
-![The git flow in a diagram](./assets/github-flow.gif)
+![The git flow in a diagram](./assets/github-flow.png)
 
 tktk Hunter - this graphic is great, but can we remove git pull from it? Would also be nice to upres it too.
 

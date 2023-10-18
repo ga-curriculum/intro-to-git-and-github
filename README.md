@@ -1,6 +1,6 @@
 # Intro To Git and GitHub
 
-![Hero image](./assets/hero-main.png)
+![Hero image](./assets/hero.png)
 
 ## Module overview
 

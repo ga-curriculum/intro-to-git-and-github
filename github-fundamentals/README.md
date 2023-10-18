@@ -38,7 +38,7 @@ You now have a remote repository on GitHub!
 
 ## Cloning a repository
 
-![The clone action ](./assets/clone.gif)
+![The clone action ](./assets/clone.png)
 
 tktk Hunter, this asset needs to be updated (it says forked repo). Would love this to be higher-res as well. Also, the koala is cute but is confused in this context.
 
