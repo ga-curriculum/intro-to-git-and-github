@@ -17,11 +17,7 @@ Here's a graphic that sums this up:
 
 ![The git flow in a diagram](./assets/github-flow.png)
 
-tktk Hunter - this graphic is great, but can we remove git pull from it? Would also be nice to upres it too.
-
 Let's walk through how to carry out these individual steps. Along the way, we'll use a rocket's payload as an analogy. 
-
-tktk Hunter - not sure how I feel about this, but you might play with it. Maybe add a series of images for each of these steps, drawing parallels to the rocket analogy?
 
 ## 1. Write code
 

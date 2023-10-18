@@ -40,8 +40,6 @@ You now have a remote repository on GitHub!
 
 ![The clone action ](./assets/clone.png)
 
-tktk Hunter, this asset needs to be updated (it says forked repo). Would love this to be higher-res as well. Also, the koala is cute but is confused in this context.
-
 Cloning allows us to take the current version of a project from a remote repository on GitHub and copy it into a local repository on your computer.
 
 You'll follow these steps any time you want to make a copy of a project that already exists on GitHub. 
