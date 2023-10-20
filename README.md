@@ -27,7 +27,7 @@ This module provides a comprehensive introduction to Git and GitHub, aimed at br
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
 
-🎥 [Video Hub](./internal-resources/video-guide/README.md)
+🎥 [Video Hub](./internal-resources/video-hub/README.md)
 
 🏗️ [Release Notes](./internal-resources/release-notes.md)
 
