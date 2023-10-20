@@ -1,6 +1,4 @@
-# Intro To Git and GitHub - Git Fundamentals
-
-![Hero image](./assets/hero.png)
+# ![Intro To Git and GitHub - Git Fundamentals](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to use `git status` to interpret the state of a local repository and `git remote -v` to list available remotes attached.
 

@@ -1,6 +1,4 @@
-# Intro To Git and GitHub - Instructor Guide
-
-![Hero image](./assets/hero-instructor-guide.png)
+# ![Intro To Git and GitHub - Instructor Guide](./assets/hero-instructor-guide.png)
 
 ## General
 

@@ -1,6 +1,4 @@
-# Intro To Git and GitHub
-
-![Hero image](./assets/hero.png)
+# ![Intro To Git and GitHub](./assets/hero.png)
 
 ## About
 
@@ -12,7 +10,7 @@ This module provides a comprehensive introduction to Git and GitHub, aimed at br
 
 ## Content
 
-| Lesson | Video Time | Video | Topics Covered |
+| Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| -------------- |
 | [Git Concepts](./git-concepts/README.md)               | -- | -- | Define the significance of version control and the role Git plays in our work as developers. |
 | [GitHub Concepts](./github-concepts/README.md)         | -- | -- | Understand the role GitHub plays in our work and how it is different from Git.               |

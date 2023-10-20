@@ -1,6 +1,4 @@
-# Intro To Git and GitHub - GitHub Fundamentals
-
-![Hero image](./assets/hero.png)
+# ![Intro To Git and GitHub - GitHub Fundamentals](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to create and clone a GitHub repository and open it in VS Code.
 

@@ -1,6 +1,4 @@
-# Intro To Git and GitHub - References
-
-![Hero image](./assets/hero.png)
+# ![Intro To Git and GitHub - References](./assets/hero.png)
 
 ## Lesson references
 
