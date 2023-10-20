@@ -2,7 +2,7 @@
 
 ![Hero image](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to define the significance of GitHub.
+**Learning objective:** By the end of this lesson, students will be able to distinguish between Git and GitHub, and explain the key features of GitHub, including issues and pull requests, for collaborative coding.
 
 ## What is GitHub?
 

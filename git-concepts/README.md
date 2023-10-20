@@ -2,7 +2,7 @@
 
 ![Hero image](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to define the significance of version control and Git and its role for developers. 
+**Learning objective:** By the end of this lesson, students will be able to explain the purpose of a Git repository, describe the function of Git branches, and identify the role of remotes in facilitating collaboration. 
 
 ## What is version control?
 

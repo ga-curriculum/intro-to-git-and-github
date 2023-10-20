@@ -14,7 +14,7 @@ This release modularizes the legacy Intro to Git and Intro to GitHub lectures an
 
 **Changes**
 
-- Screenshots updated to reflect GitHub interface as of 9/24.
+- Screenshots updated to reflect GitHub interface as of 9/24/23.
 - Expand on written lecture material to provide a more straightforward outline for instructors to deliver content with and to provide more thorough written documentation for students.
 - Update content to be style guide compliant.
 

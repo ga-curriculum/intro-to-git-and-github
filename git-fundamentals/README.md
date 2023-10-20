@@ -2,7 +2,7 @@
 
 ![Hero image](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to check the status of their local repository, and the list of remotes attached.
+**Learning objective:** By the end of this lesson, students will be able to use `git status` to interpret the state of a local repository and `git remote -v` to list available remotes attached.
 
 ## Check the local repository status
 

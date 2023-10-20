@@ -2,7 +2,7 @@
 
 ![Hero image](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to stage, commit, and push changes.
+**Learning objective:** By the end of this lesson, students will be able to execute and explain the four key steps of the Git flow—`write`, `stage`, `commit`, and `push`—for effective version control and code collaboration.
 
 ## Understanding the Git flow
 
