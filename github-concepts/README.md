@@ -19,6 +19,7 @@ GitHub is also a crucial part of collaboration, allowing developers from all ove
 Git is a CLI tool that provides us with local repositories for tracking changes to our code on our own computers 💻
 GitHub is an online web service that provides us with remote repositories stored in the cloud.  We can use it as a place to back up and share our the Git repositories on our own computers. ☁️
 
-## Knowledge check
-- What are some features of GitHub
-- Summarize the difference between Git and GitHub
+## ❓ Review Questions
+
+- What are some features of GitHub?
+- Summarize the difference between Git and GitHub.

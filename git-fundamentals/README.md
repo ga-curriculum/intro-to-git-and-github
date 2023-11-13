@@ -36,6 +36,7 @@ This command lists all of the remotes that have been configured for the local re
 
 When you push/pull code to/from GitHub, you can select which remote you'd like to use. This command helps you identify which remotes are available. For now, you'll typically only use an `origin` remote and won't add more. When you start collaborating with others, this will change.
 
-## Knowledge Check
+## ❓ Review Questions
+
 - What does `git status` do?
 - What does `git remote -v` do?

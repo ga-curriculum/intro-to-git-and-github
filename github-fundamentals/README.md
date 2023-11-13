@@ -75,7 +75,8 @@ code .
 
 > 🧠 When you clone a repository, an origin remote will automatically be set using the URL you used to clone it. You can confirm this with the `git remote -v` command. If you've cloned a repository that you don't own (or have write access to), you won't be able to push changes!
 
-## Knowledge Check
+## ❓ Review Questions
+
 - Does creating the repository in GitHub create the repo on your computer?
 - What does cloning do?
 - Once you've cloned the repo, how do you open it in VS Code?
