@@ -58,7 +58,7 @@ Using the URL from GitHub, clone the repository:
 git clone https://github.com/<original-author>/my-project.git
 ```
 
-Do not copy the above command. It will not work. Your username will replace `<original-author>` in the URL above.
+Do not copy the above command. It will not work. Your username will replace `<original-author>` in the URL above.  Also make sure `my-project.git` matches the name that you gave the repo when you were creating it
 
 > 🧠 When you clone a repository, a directory matching the repository's name on GitHub will be created automatically.
 >
@@ -74,3 +74,8 @@ code .
 ```
 
 > 🧠 When you clone a repository, an origin remote will automatically be set using the URL you used to clone it. You can confirm this with the `git remote -v` command. If you've cloned a repository that you don't own (or have write access to), you won't be able to push changes!
+
+## Knowledge Check
+- Does creating the repository in GitHub create the repo on your computer?
+- What does cloning do?
+- Once you've cloned the repo, how do you open it in VS Code?

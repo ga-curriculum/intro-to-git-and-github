@@ -65,7 +65,7 @@ git commit -m "commit message"
 
 This command allows you to provide a checkpoint where you can save the recent changes you've made to your code. It also allows you to enter a message describing the changes made to your code for future reference.
 
-Commit messages should be in the present tense and should describe the changes that the code is making. For example, if a commit fixes a typo in your code, the commit message should be "fix typo", not "fixed typo".
+Commit messages should should describe the changes that the code is making. For example, if a commit fixes a typo in your code, the commit message should be "fix typo".  Stay away from messages like "stuff" or "fix".
 
 ### When and why we use it
 
@@ -93,7 +93,7 @@ This command sends all the committed changes to a remote repository.
 
 ### When and why we use it
 
-Do this immediately after you `git add .` and `git commit -m "Your commit message"`. To get your code on GitHub, you push it from a local repository up to a repository hosted by GitHub.
+Do this after you `git add .` and `git commit -m "Your commit message"`. This will get your code up to GitHub from your own computer.  You push it from a local repository up to a repository hosted by GitHub.
 
 Finalizing the rocket analogy 🚀 - pushing your code is like launching the rocket and sending its payload to planet GitHub for all to see!
 
@@ -119,3 +119,10 @@ There are even more benefits when you start collaborating with code.
 > ***Repeat***
 >
 > You will almost always run these three commands together.
+
+## Knowledge Check
+- What is the first step of the Git flow?
+- What is the second step of the Git flow?
+- What is the third step of the Git flow?
+- What is the fourth step of the Git flow?
+- Can you omit any of the steps of the Git flow?

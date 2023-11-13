@@ -34,16 +34,13 @@ This information helps developers use Git to collaborate, track changes through 
 
 Git repositories can be stored locally on a developer's machine or hosted on remote servers like GitHub.
 
-### Git branch
-
-A Git branch (or just branch) is like a separate path in a project. Branches are used to test new things or build new features. For now, we'll work primarily in the `main` branch. 
-
-We won't cover it here, but branches are also central to unlocking collaboration with others.
-
-In this course, we will use the `main` branch as our central source of truth and the default branch name. This is the default naming convention for GitHub. You may see other organizations use the `master` branch as their default branch name instead - as time goes on, this will be less and less common.
-
 ### Remotes
 
 A remote is a reference to a repository hosted on an external server, allowing synchronization and collaboration between a local Git repository and its counterpart located elsewhere.
 
 In this course, remotes typically take the form of a URL pointing to a repository on GitHub, but other code-sharing platforms like GitLab and BitBucket exist. When collaborating, these external repositories provide a centralized location for sharing, updating, and accessing a codebase among multiple team members. We'll discuss remotes in more detail when we cover GitHub itself.
+
+## Knowledge Check
+- Why should we use version control?
+- What does a git repository allows to see
+- What is a remote?

@@ -30,8 +30,12 @@ git remote -v
 
 ### What it does
 
-This command lists all of the remotes that have been configured for the local repository. When you clone a repository, the location you cloned it from is automatically added as the `origin`.
+This command lists all of the remotes that have been configured for the local repository. When you clone a repository, the location you cloned it from is automatically added as the remote called `origin`.
 
 ### When and why we use it
 
 When you push/pull code to/from GitHub, you can select which remote you'd like to use. This command helps you identify which remotes are available. For now, you'll typically only use an `origin` remote and won't add more. When you start collaborating with others, this will change.
+
+## Knowledge Check
+- What does `git status` do?
+- What does `git remote -v` do?
