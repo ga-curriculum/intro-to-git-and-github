@@ -34,6 +34,12 @@ This information helps developers use Git to collaborate, track changes through 
 
 Git repositories can be stored locally on a developer's machine or hosted on remote servers like GitHub.
 
+### Git branch
+
+Branches are used to test new things or build new features, and they help developers working on the same project avoid accidentally messing up each other's code. For now, we'll work primarily in the `main` branch.
+
+In this course, we will use the `main` branch as our central source of truth and the default branch name. This is also the default branch name on GitHub.
+
 ### Remotes
 
 A remote is a reference to a repository hosted on an external server, allowing synchronization and collaboration between a local Git repository and its counterpart located elsewhere.

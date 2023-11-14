@@ -28,10 +28,10 @@ Just like the payload on a rocket needs to be thought out and built before it ca
 After making changes to your code, use this command to stage those changes: 
 
 ```bash
-git add .
+git add -A
 ```
 
-> 🧠 The `.` in `git add .` stands for the current directory, similar to when you run `code .` to open the current directory in VS Code.
+> 🧠 The `-A` in `git add -A` means to include all of the files in the current Git repo.
 
 ### What it does
 
@@ -43,15 +43,15 @@ Use this command after making changes to your code that you want to potentially 
 
 The staging area is an intermediate area where changes to files are stored before being committed to the repository.
 
-The `.` in `git add .` will add all of the files in the directory that we are currently working with. We are also able to add one file at a time, or multiples, by writing the file names out when we add:
+The `-A` flag in `git add -A` will add all of the files in the repo that we are currently working with. We are also able to add one file at a time, or multiples, by writing the file names out when we add:
 
 ```bash
 git add index.html
 ```
 
-When doing collaborative coding, it will become clearer why not adding every single file at once can be beneficial. For now, `git add .` will work great!
+When doing collaborative coding, it will become clearer why not adding every single file at once can be beneficial. For now, `git add -A` will work great!
 
-Continuing the rocket analogy, running the `git add .` command puts the payload next to the rocket to be loaded. Nothing is finalized yet; changes could still be made, but preparations are happening.
+Continuing the rocket analogy, running the `git add -A` command puts the payload next to the rocket to be loaded. Nothing is finalized yet; changes could still be made, but preparations are happening.
 
 ## 3. Commit
 
@@ -93,7 +93,7 @@ This command sends all the committed changes to a remote repository.
 
 ### When and why we use it
 
-Do this after you `git add .` and `git commit -m "Your commit message"`. This will get your code up to GitHub from your own computer. You push it from a local repository up to a repository hosted by GitHub.
+Do this after you `git add -A` and `git commit -m "Your commit message"`. This will get your code up to GitHub from your own computer. You push it from a local repository up to a repository hosted by GitHub.
 
 Finalizing the rocket analogy 🚀 - pushing your code is like launching the rocket and sending its payload to planet GitHub for all to see!
 
@@ -112,7 +112,7 @@ There are even more benefits when you start collaborating with code.
 >
 > ***Make changes to your code***
 > ```bash
-> git add .
+> git add -A
 > git commit -m "message describing code changes"
 > git push origin main
 > ```
