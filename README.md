@@ -17,7 +17,7 @@ This module provides a comprehensive introduction to Git and GitHub, aimed at br
 | [GitHub Fundamentals](./github-fundamentals/README.md) | -- | -- | Clone a remote repository and open it in VS Code.                                            |
 | [Git Fundamentals](./git-fundamentals/README.md)       | -- | -- | Check the status of their local repository, as well as the list of remotes attached.         |
 | [Git Flow](./git-flow/README.md)                       | -- | -- | Stage and commit changes locally and push those changes to GitHub.                              |
-|  **Total Module**                                      | -- | -- |                                                                                              |
+|  **Total content**                                     | -- | -- |                                                                                              |
 
 ## Reference
 
