@@ -45,9 +45,3 @@ In this course, we will use the `main` branch as our central source of truth and
 A remote is a reference to a repository hosted on an external server, allowing synchronization and collaboration between a local Git repository and its counterpart located elsewhere.
 
 In this course, remotes typically take the form of a URL pointing to a repository on GitHub, but other code-sharing platforms like GitLab and BitBucket exist. When collaborating, these external repositories provide a centralized location for sharing, updating, and accessing a codebase among multiple team members. We'll discuss remotes in more detail when we cover GitHub itself.
-
-## ❓ Review Questions
-
-- Why should we use version control?
-- What does a git repository allows to see
-- What is a remote?
