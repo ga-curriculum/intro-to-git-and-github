@@ -119,11 +119,3 @@ There are even more benefits when you start collaborating with code.
 > ***Repeat***
 >
 > You will almost always run these three commands together.
-
-## ❓ Review Questions
-
-- What is the first step of the Git flow?
-- What is the second step of the Git flow?
-- What is the third step of the Git flow?
-- What is the fourth step of the Git flow?
-- Can you omit any of the steps of the Git flow?
