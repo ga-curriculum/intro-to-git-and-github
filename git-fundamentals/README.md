@@ -4,7 +4,7 @@
 
 ## Check the local repository status
 
-Command: 
+Command:
 
 ```bash
 git status
@@ -22,7 +22,7 @@ If you're ever having trouble with git commands, `git status` is an excellent wa
 
 ## View remotes
 
-Command: 
+Command:
 
 ```bash
 git remote -v

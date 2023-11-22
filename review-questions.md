@@ -26,7 +26,6 @@ This section provides questions that can be used in various teaching formats. Th
 - What does `git status` do?
 - What does `git remote -v` do?
 
-
 ## Git Flow
 
 ❓ Review Questions
@@ -36,4 +35,3 @@ This section provides questions that can be used in various teaching formats. Th
 - What is the third step of the Git flow?
 - What is the fourth step of the Git flow?
 - Can you omit any of the steps of the Git flow?
-

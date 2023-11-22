@@ -4,9 +4,9 @@
 
 This module provides a comprehensive introduction to Git and GitHub, aimed at bringing beginners to an intermediate level of proficiency. Covering everything from repository creation and management on GitHub to essential Git commands and workflows, the lessons are designed for effective real-world application. It uses clear, approachable language to ensure comprehension across a broad range of learners.
 
-## Prerequisites 
+## Prerequisites
 
- - Intro to the CLI
+- Intro to the CLI
 
 ## Content
 
@@ -16,7 +16,7 @@ This module provides a comprehensive introduction to Git and GitHub, aimed at br
 | [GitHub Concepts](./github-concepts/README.md)         | -- | -- | Understand the role GitHub plays in our work and how it is different from Git.               |
 | [GitHub Fundamentals](./github-fundamentals/README.md) | -- | -- | Clone a remote repository and open it in VS Code.                                            |
 | [Git Fundamentals](./git-fundamentals/README.md)       | -- | -- | Check the status of their local repository, as well as the list of remotes attached.         |
-| [Git Flow](./git-flow/README.md)                       | -- | -- | Stage and commit changes locally and push those changes to GitHub.                              |
+| [Git Flow](./git-flow/README.md)                       | -- | -- | Stage and commit changes locally and push those changes to GitHub.                           |
 |  **Total content**                                     | -- | -- |                                                                                              |
 
 ## Reference
@@ -27,7 +27,7 @@ This module provides a comprehensive introduction to Git and GitHub, aimed at br
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
 
-🎥 [Video Hub](./internal-resources/video-hub/README.md)
+🎥 [Video Hub](./internal-resources/video-hub.md)
 
 🏗️ [Release Notes](./internal-resources/release-notes.md)
 

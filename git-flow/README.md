@@ -15,7 +15,7 @@ Here's a graphic that sums this up:
 
 ![The git flow in a diagram](./assets/github-flow.png)
 
-Let's walk through how to carry out these individual steps. Along the way, we'll use a rocket's payload as an analogy. 
+Let's walk through how to carry out these individual steps. Along the way, we'll use a rocket's payload as an analogy.
 
 ## 1. Write code
 
@@ -25,7 +25,7 @@ Just like the payload on a rocket needs to be thought out and built before it ca
 
 ## 2. Stage (add)
 
-After making changes to your code, use this command to stage those changes: 
+After making changes to your code, use this command to stage those changes:
 
 ```bash
 git add -A
@@ -55,7 +55,7 @@ Continuing the rocket analogy, running the `git add -A` command puts the payload
 
 ## 3. Commit
 
-The command: 
+The command:
 
 ```bash
 git commit -m "commit message"
@@ -73,9 +73,9 @@ Use this command after adding changes to the staging area to commit those change
 
 Committing your code is putting the payload onto the rocket to be launched. Whenever the rocket takes off, it will carry the committed code.
 
-## 4. Push 
+## 4. Push
 
-The command: 
+The command:
 
 ```bash
 git push <remote-name> <remote-branch-name>
@@ -108,14 +108,16 @@ When working alone, it may be difficult to see the benefits of Git at first. Her
 
 There are even more benefits when you start collaborating with code.
 
-> ♻️ Repeatable Pattern: when working alone, the typical Git workflow will be: 
+> ♻️ Repeatable Pattern: when working alone, the typical Git workflow will be:
 >
 > ***Make changes to your code***
+>
 > ```bash
 > git add -A
 > git commit -m "message describing code changes"
 > git push origin main
 > ```
+>
 > ***Repeat***
 >
 > You will almost always run these three commands together.

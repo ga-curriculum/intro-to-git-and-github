@@ -1,8 +1,8 @@
-# ![Intro To Git and GitHub - Instructor Guide](./assets/hero-instructor-guide.png)
+# ![Intro To Git and GitHub - Instructor Guide](../assets/instructor-guide.png)
 
 ## General
 
-This content may be best delivered async due to the interactive components of this lecture. Some students may speed through some parts of this content while others may struggle and greatly appreciate the ability to rewind video content and absorb the steps at their own pace. Lean into this instead of fighting this live in your classroom and getting pulled from both ends! 
+This content may be best delivered async due to the interactive components of this lecture. Some students may speed through some parts of this content while others may struggle and greatly appreciate the ability to rewind video content and absorb the steps at their own pace. Lean into this instead of fighting this live in your classroom and getting pulled from both ends!
 
 ---
 
