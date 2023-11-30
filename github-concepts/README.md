@@ -4,7 +4,7 @@
 
 ## What is GitHub?
 
-GitHub is an online web application for code collaboration. Using it, we can backup and share our local Git repositories with the world. It is the most prominent online storage space for collaborative work.
+GitHub is a web-based platform primarily used for version control and collaborative software development. Using it, we can backup and share our local Git repositories with the world. It is the most prominent online storage space for collaborative work.
 
 GitHub also fosters community collaboration by providing tools like [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) for discussing ideas and problems. GitHub even adds some quality-of-life tools on top of Git, like [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) for suggesting and reviewing code changes. In short, it is a social network for developers like us!
 
