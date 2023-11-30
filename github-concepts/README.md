@@ -10,9 +10,9 @@ GitHub fosters community collaboration through features such as [issues](https:/
 
 ## Why use GitHub?
 
-GitHub plays the critical role of a cloud-based backup system - a safe place for all your work! Your code and the time you spent writing it are valuable. You don't want to risk losing it to hardware failure, etc. Using GitHub means we can push code to it on demand. And if something goes wrong, we can retrieve it easily.
+GitHub serves as a vital cloud-based backup for your work, securely storing your code. This safeguards against data loss due to hardware failures or other issues. By regularly pushing code to GitHub, you ensure that your valuable work is preserved and can be easily recovered if needed.
 
-GitHub is also a crucial part of collaboration, allowing developers from all over to work together to build something great by sharing their Git repositories with each other. You will use it extensively in your software engineering journey long after this course ends.
+GitHub is essential for collaboration, enabling developers worldwide to jointly create remarkable projects by sharing their Git repositories. It's a tool you'll frequently use throughout your software engineering career, well beyond the duration of this course.
 
 ## How are Git and GitHub different?
 
