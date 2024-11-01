@@ -1,4 +1,7 @@
-# ![Intro To Git and GitHub - GitHub Concepts](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to Git and GitHub</span>
+  <span class="subhead">GitHub Concepts</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to distinguish between Git and GitHub, and explain the key features of GitHub, including issues and pull requests, for collaborative coding.
 

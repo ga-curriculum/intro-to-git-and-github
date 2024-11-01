@@ -1,4 +1,7 @@
-# ![Intro To Git and GitHub - Git Flow](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to Git and GitHub</span>
+  <span class="subhead">Git Flow</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to execute and explain the four key steps of the Git flow—`write`, `stage`, `commit`, and `push`—for effective version control and code collaboration.
 

@@ -1,4 +1,7 @@
-# ![Intro To Git and GitHub - Git Concepts](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to Git and GitHub</span>
+  <span class="subhead">Git Concepts</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to explain the purpose of a Git repository, describe the function of Git branches, and identify the role of remotes in facilitating collaboration.
 

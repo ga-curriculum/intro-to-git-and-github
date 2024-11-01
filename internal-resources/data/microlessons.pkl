@@ -1,0 +1,39 @@
+import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/static/v2/pkl/template.pkl" as Template
+
+// Add microlessons here, in the order they should be delivered
+
+gitConcepts = new Template.Microlesson {
+  friendlyName = "Git Concepts"
+  dirName = "git-concepts"
+  type = "Content"
+  videoUrl = ""
+}
+
+githubConcepts = new Template.Microlesson {
+  friendlyName = "GitHub Concepts"
+  dirName = "github-concepts"
+  type = "Content"
+  videoUrl = ""
+}
+
+githubFundamentals = new Template.Microlesson {
+  friendlyName = "GitHub Fundamentals"
+  dirName = "github-fundamentals"
+  type = "Content"
+  videoUrl = ""
+}
+
+gitFundamentals = new Template.Microlesson {
+  friendlyName = "Git Fundamentals"
+  dirName = "git-fundamentals"
+  type = "Content"
+  videoUrl = ""
+}
+
+gitFlow = new Template.Microlesson {
+  friendlyName = "Git Flow"
+  dirName = "git-flow"
+  type = "Content"
+  videoUrl = ""
+}
+
