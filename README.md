@@ -28,7 +28,7 @@ This module provides a comprehensive introduction to Git and GitHub, aimed at br
 
 - Intro to the CLI
 
-### Github Pages Sites
+### Course landing pages
 
 - [Default Landing Page](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-git-and-github/canvas-landing-pages/fallback)
 - [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-git-and-github/canvas-landing-pages/seb)
