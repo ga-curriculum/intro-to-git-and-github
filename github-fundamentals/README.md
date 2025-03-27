@@ -21,15 +21,15 @@ If you're on your GitHub profile page, you can alternatively click on the reposi
 
 Be sure that you select an appropriate name for the repository. Many organizations use lower-kebab-case for their repo names, but there are no strict rules for repo names, except they must only contain [ASCII](https://en.wikipedia.org/wiki/ASCII) letters, digits, and the characters `.`, `-`, and `_`.
 
-If you plan on sharing it with others (for example, if you're creating something you will eventually submit as a deliverable), be sure that it is public:
+If you plan to share this project with others (for example, if you will submit it as part of an assignment), make sure the repository is set to Public:
 
 ![The repository is given a name, and is made publicly accessible.](./assets/new-repo-1.png)
 
-Be sure that NONE of the following options are selected:
+Also, make sure that none of the following options are selected:
 
 ![The repository will not be set up with a readme, will not have a `.gitignore` file, and will not have a license associated with it.](./assets/new-repo-2.png)
 
-There's a time and place to use these options; hold off while you're learning the ropes!
+These options can be useful later, but for now, do not use them while you are still learning the basics.
 
 When you've entered these items, click the **Create repository** button:
 
